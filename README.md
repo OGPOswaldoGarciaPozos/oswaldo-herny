@@ -1,2 +1,1 @@
-# oswaldo-herny
-este es un reposito de prueba 
+este es una prueba de como crear un repositorio y clonarlo
